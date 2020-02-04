@@ -16,4 +16,4 @@ while i_1 < 4000000:
             s = s + i_1
         print(i_1)
 
-print('Сумма=', s) n
+print('Сумма=', s)
