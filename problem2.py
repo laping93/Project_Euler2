@@ -17,3 +17,7 @@ while i_1 < 4000000:
         print(i_1)
 
 print('Сумма=', s)
+print('Сумма=', s)
+print('Сумма=', s)
+print('Сумма=', s)
+print('Сумма=', s)
