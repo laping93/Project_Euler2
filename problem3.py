@@ -3,7 +3,7 @@
 
 s = 0
 max_factor = 1
-i = 600851475142//2
+i = 600851475142//11
 
 while True:
     print(i)
